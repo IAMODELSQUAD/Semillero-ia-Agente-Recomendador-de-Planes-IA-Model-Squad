@@ -102,9 +102,9 @@ Agente Recomendador de Productos-proyecto-agentes-ia/
 ## 🎥 Video de Demostración
 
 📺 Enlace del video:
+https://youtu.be/-UPttjzn9-A?si=WGrw1OWRdZpWcymL
 
-* YouTube / Google Drive: **(colocar enlace aquí)**
-
+https://1drv.ms/v/c/689252ad69b9bea3/IQCO6Gxcn5iWQK8OPkVNbpFKAYkvB1mNIeiam-p4dv88BLk?e=ioxKyE
 
 ## 🧪 Pruebas
 
@@ -121,3 +121,4 @@ Este proyecto demuestra la aplicación práctica de **Agentes Inteligentes** en 
 
 
 📌 *Proyecto académico – Semillero de Inteligencia Artificial*
+
